@@ -9,8 +9,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build" 
   },
+  "homepage": "https://<SideFoxer>.github.io/<Comp2156-Eduardo-Rosa>",
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SideFoxer/Comp2156-Eduardo-Rosa.git"
