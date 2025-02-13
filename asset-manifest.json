@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Comp2156-Eduardo-Rosa/static/css/main.27ca76a1.css",
+    "main.js": "/Comp2156-Eduardo-Rosa/static/js/main.a555acb9.js",
+    "static/js/453.01656b73.chunk.js": "/Comp2156-Eduardo-Rosa/static/js/453.01656b73.chunk.js",
+    "index.html": "/Comp2156-Eduardo-Rosa/index.html",
+    "main.27ca76a1.css.map": "/Comp2156-Eduardo-Rosa/static/css/main.27ca76a1.css.map",
+    "main.a555acb9.js.map": "/Comp2156-Eduardo-Rosa/static/js/main.a555acb9.js.map",
+    "453.01656b73.chunk.js.map": "/Comp2156-Eduardo-Rosa/static/js/453.01656b73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.a555acb9.js"
+  ]
+}
